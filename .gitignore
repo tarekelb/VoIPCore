@@ -1,0 +1,10 @@
+build/
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+conanbuildinfo.cmake
+bin/
+.vs
+.vscode
+*.db
